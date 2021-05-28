@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Goyal</h1>
-<h3 align="center">I'm a B.Tech student in Computer Science .I am a tech-enthusiast who love to code and learn skills.Putting on targes for the day and work on it is one of my theory and passion for my work.I am also a YouTuber.Currently a B.Tech student in Computer Science at PES University,Bangalore. Always up and active in teamwork.per from India</h3>
+<h3 align="center">I'm a B.Tech student in Computer Science .I am a tech-enthusiast who love to code and learn skills.Putting on targets for the day and work on it is one of my theory and passion for my work.I am also a YouTuber.Currently a B.Tech student in Computer Science at PES University,Bangalore. Always up and active in team-projects</h3>
 
 - 🔭 I’m currently working on **on my skills in computer Science Domain.I am into Competitive coding and also enjoy learning new skill sets in web development.**
 
