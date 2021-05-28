@@ -12,7 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abhishek-goyal-3b329a1b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-goyal-3b329a1b2/" height="30" width="40" /></a>
+
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <a href="https://www.youtube.com/c/AbhishekGoyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/abhishekgoyal" height="30" width="40" /></a>
 </p>
 
@@ -28,3 +29,5 @@
   <summary>:zap: GitHub Stats</summary>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekgoyal17&show_icons=true&locale=en" alt="abhishekgoyal17" /></p>
 </details>
+
+[linkedin]: https://www.linkedin.com/in/abhishek-goyal-3b329a1b2/
