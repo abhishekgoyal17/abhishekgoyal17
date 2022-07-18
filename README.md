@@ -6,9 +6,6 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms and Web Development.**
 
-- 🤝 I’m looking for help with **opportunities to join as a intern.**
-
-- ⚡ Fun fact **I have a vision to share my experiences and skills once I get proficient into it.Umm,I have a YouTube channel.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
