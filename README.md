@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="avento.gif" width="300" height="200" />
 <h3 align="center">Computer Science Student</h3>
 
-- 🔭 I’m currently working on **on my skills in computer Science Domain.I am into Competitive coding and also enjoy learning new skill sets in web development.**
+- 🔭 I’m currently working on **on my skills in computer Science Domain.I am into Competitive coding and also enjoy learning new skill sets in web development and BlockChain.**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms and Web Development.**
 
