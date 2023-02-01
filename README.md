@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Goyal</h1>
 <img align="right" alt="GIF" src="avento.gif" width="300" height="200" />
-<h3 align="center">Computer Science Student</h3>
+
 
 
 
