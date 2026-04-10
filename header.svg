@@ -1,0 +1,52 @@
+<svg width="900" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#c94b1a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FF6B35;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e85d20;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background rect -->
+  <rect width="900" height="140" fill="url(#bgGrad)"/>
+
+  <!-- Decorative dots grid -->
+  <g opacity="0.12" fill="white">
+    <circle cx="30" cy="20" r="2"/><circle cx="60" cy="20" r="2"/><circle cx="90" cy="20" r="2"/>
+    <circle cx="30" cy="45" r="2"/><circle cx="60" cy="45" r="2"/><circle cx="90" cy="45" r="2"/>
+    <circle cx="30" cy="70" r="2"/><circle cx="60" cy="70" r="2"/><circle cx="90" cy="70" r="2"/>
+    <circle cx="810" cy="20" r="2"/><circle cx="840" cy="20" r="2"/><circle cx="870" cy="20" r="2"/>
+    <circle cx="810" cy="45" r="2"/><circle cx="840" cy="45" r="2"/><circle cx="870" cy="45" r="2"/>
+    <circle cx="810" cy="70" r="2"/><circle cx="840" cy="70" r="2"/><circle cx="870" cy="70" r="2"/>
+  </g>
+
+  <!-- Thin accent line top -->
+  <rect x="0" y="0" width="900" height="3" fill="white" opacity="0.2"/>
+
+  <!-- Name -->
+  <text
+    x="450" y="68"
+    font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+    font-size="42"
+    font-weight="700"
+    fill="white"
+    text-anchor="middle"
+    letter-spacing="2"
+  >Abhishek Goyal</text>
+
+  <!-- Subtitle -->
+  <text
+    x="450" y="100"
+    font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+    font-size="15"
+    font-weight="400"
+    fill="white"
+    text-anchor="middle"
+    opacity="0.88"
+    letter-spacing="1"
+  >SDE II @ Oracle  ·  Backend &amp; Distributed Systems  ·  Bengaluru</text>
+
+  <!-- Bottom wave -->
+  <path d="M0,115 C150,140 300,100 450,118 C600,136 750,105 900,120 L900,140 L0,140 Z" fill="white" opacity="0.07"/>
+  <path d="M0,125 C200,108 400,138 600,120 C750,108 850,130 900,128 L900,140 L0,140 Z" fill="white" opacity="0.06"/>
+</svg>
