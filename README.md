@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=FF6B35&center=true&vCenter=true&width=650&lines=Java+%7C+Distributed+Systems+%7C+Multithreading;Building+Engineering+Atlas+%F0%9F%9A%80;Teaching+System+Design+to+Indian+Devs;Resume+Help+%7C+Job+Switch+%7C+Book+a+1%3A1)](https://topmate.io/abhishek_goyal17/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=FF6B35&center=true&vCenter=true&width=650&lines=Java+%7C+Distributed+Systems+%7C+Multithreading;Learner+%7C+Contributor+%7C+Curious+Mind;Backend+Engineer+%7C+Building+in+Public;Resume+Help+%7C+Job+Switch+%7C+Book+a+1%3A1)](https://topmate.io/abhishek_goyal17/)
 
 </div>
 
