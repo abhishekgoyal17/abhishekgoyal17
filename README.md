@@ -138,8 +138,6 @@ Built automation tooling for build pipeline configuration management using GitHu
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=abhishekgoyal17&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF6B35&icon_color=FF6B35&border_color=30363d&text_color=c9d1d9" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekgoyal17&layout=compact&theme=dark&bg_color=0d1117&title_color=FF6B35&border_color=30363d&text_color=c9d1d9" />
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekgoyal17&theme=dark&background=0d1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&border=30363d" />
-
 </div>
 
 ---
