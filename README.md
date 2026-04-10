@@ -1,113 +1,75 @@
 <div align="center">
-
-```
-░█████╗░██████╗░██╗░░██╗██╗░██████╗██╗░░██╗███████╗██╗░░██╗
-██╔══██╗██╔══██╗██║░░██║██║██╔════╝██║░░██║██╔════╝██║░██╔╝
-███████║██████╦╝███████║██║╚█████╗░███████║█████╗░░█████═╝░
-██╔══██║██╔══██╗██╔══██║██║░╚═══██╗██╔══██║██╔══╝░░██╔═██╗░
-██║░░██║██████╦╝██║░░██║██║██████╔╝██║░░██║███████╗██║░╚██╗
-╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═╝╚═════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝
-```
-
-### `Backend Engineer` · `System Design` · `Java Internals` · `Distributed Systems`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Distributed+Systems;ML+System+Design+%7C+RAG+%7C+LLM+Infrastructure;Teaching+10K%2B+devs+via+@AbhishekGoyal)](https://git.io/typing-svg)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=120&section=header&text=Abhishek%20Goyal&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=SDE%20II%20%40%20Oracle%20%7C%20Backend%20%26%20Distributed%20Systems&descSize=16&descAlignY=85&descColor=ffffff" width="100%"/>
 </div>
-
----
-
-<img align="right" src="https://raw.githubusercontent.com/abhimanyu003/abhimanyu003/master/assets/developer.gif" width="280" alt="coding gif"/>
-
-## `whoami`
-
-```java
-public class Abhishek extends SoftwareEngineer {
-
-    String[] focus = {
-        "Backend Systems @ SDE-II",
-        "ML System Design (RAG, LLM Serving)",
-        "Java Internals & Concurrency",
-        "Distributed Systems Architecture"
-    };
-
-    String[] currentlyBuilding = {
-        "learn.engineering-atlas.workers.dev",
-        "abhishekgoyal.tech",
-        "@AbhishekGoyal content brand"
-    };
-
-    String[] interviewPrep = {
-        "FAANG Backend-AI ML System Design",
-        "LLD · HLD · DSA · Java Concurrency"
-    };
-}
-```
-
-<br clear="right"/>
-
----
-
-## `stack.yaml`
 
 <div align="center">
 
-**Languages**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=FF6B35&center=true&vCenter=true&width=650&lines=Java+%7C+Distributed+Systems+%7C+Multithreading;Building+Engineering+Atlas+%F0%9F%9A%80;Teaching+System+Design+to+Indian+Devs;Resume+Help+%7C+Job+Switch+%7C+Book+a+1%3A1)](https://topmate.io/abhishek_goyal17/)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+</div>
 
-**Backend & Infrastructure**
+<br/>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<div align="center">
 
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-
-**Cloud & Tools**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekgoyal17/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/AbhishekGoyal)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhishek.tech._/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=FF6B35)](https://abhishekgoyal.tech)
+[![Engineering Atlas](https://img.shields.io/badge/Engineering_Atlas-0d1117?style=for-the-badge&logo=cloudflare&logoColor=FF6B35)](https://learn.engineering-atlas.workers.dev)
+[![Book 1:1](https://img.shields.io/badge/Book%20a%201%3A1-FF6B35?style=for-the-badge&logo=calendly&logoColor=white)](https://topmate.io/abhishek_goyal17/)
 
 </div>
 
 ---
 
-## `content.log`
+## 👨‍💻 About Me
 
-> **@AbhishekGoyal** — Teaching the Indian dev community system design & Java internals
+- 🔴 **SDE II @ Oracle** working on large-scale distributed systems and backend infrastructure
+- 🔵 **Previously @ Cisco AppDynamics (Splunk)** working on observability and monitoring platforms
+- 🏗️ **Building** [Engineering Atlas](https://learn.engineering-atlas.workers.dev) — a deep-dive learning hub for backend engineers
+- 📱 **Content Creator** [@abhishek.tech._](https://www.instagram.com/abhishek.tech._/) covering Java, System Design, and Distributed Systems
+- 📍 Bengaluru, India
+- 💬 Ask me about **Java Concurrency · Distributed Systems · System Design · Backend Engineering**
+- 📅 **Book a 1:1** for resume building or job switch guidance at [topmate.io/abhishek_goyal17](https://topmate.io/abhishek_goyal17/)
+
+---
+
+## 💼 Experience
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**📸 Instagram · LinkedIn**
-- Redis Caching Failure Modes
-- Java Concurrency & Memory Model
-- 2PC vs Saga — Distributed Transactions  
-- Uber's Rate Limiting (GRL/RLC)
-- HTTP Range Requests & CDN Internals
-- Idempotency in Distributed Systems
+### 🔴 Oracle — SDE II
+`Dec 2024 – Present`
+
+Working on the **Oracle AHF team**, building backend systems for distributed cluster diagnostics, automated health monitoring, and intelligent resource management across large-scale Oracle RAC and DataGuard environments.
+
+Core focus areas: multithreaded Java systems, distributed coordination, scheduling infrastructure, and AI-assisted diagnostics tooling.
+
+`Java` `Multithreading` `Distributed Systems` `Python` `Linux`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🎬 YouTube Reels**
-- Java Multithreading Deep Dives
-- System Design Breakdowns
-- LLM Infrastructure Explainers
-- Stock + Tech Commentary
-- NVIDIA GTC Newsletters
-- Backend-AI Architecture
+### 🔵 Cisco AppDynamics (Splunk) — SDE I
+`Jul 2023 – Nov 2024`
+
+Worked on the **Browser Real User Monitoring (BRUM)** platform, building microservices for traffic simulation, session sampling at scale, and distributed data ingestion. Contributed to cloud migration initiatives.
+
+Core focus areas: Spring Boot microservices, Redis-based distributed state, container orchestration on AWS.
+
+`Java` `Spring Boot` `Redis` `Docker` `Kubernetes` `AWS`
+
+---
+
+### ⚙️ Red Hat — SWE Intern
+`Jan 2023 – Jun 2023`
+
+Built automation tooling for build pipeline configuration management using GitHub APIs and Go.
+
+`Go` `GitHub APIs` `YAML`
 
 </td>
 </tr>
@@ -115,68 +77,94 @@ public class Abhishek extends SoftwareEngineer {
 
 ---
 
-## `system_design.focus`
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  ML SYSTEM DESIGN                                       │
-│  ├── RAG Pipelines & Vector Search                      │
-│  ├── Two-Tower Recommendation Models                    │
-│  ├── LLM Serving: KV Cache, Continuous Batching        │
-│  ├── Feature Stores & Observability                     │
-│  └── Real-Time ML Inference Infrastructure              │
-│                                                         │
-│  DISTRIBUTED SYSTEMS                                    │
-│  ├── Consensus Protocols & Replication                  │
-│  ├── Event-Driven Architecture (Kafka/MSK)              │
-│  ├── Rate Limiting & Concurrency Control                │
-│  └── Trading Systems & Live Streaming Infra             │
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
-## `github.stats`
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<details>
-<summary>📊 Click to expand GitHub Stats</summary>
-<br/>
+**Languages**
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhishekgoyal17&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF6B35&icon_color=FF6B35&border_color=30363d&text_color=c9d1d9" alt="GitHub Stats" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekgoyal17&layout=compact&theme=dark&bg_color=0d1117&title_color=FF6B35&border_color=30363d&text_color=c9d1d9" alt="Top Languages" />
+**Backend & Infrastructure**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekgoyal17&theme=dark&background=0d1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&border=30363d" alt="GitHub Streak" />
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-</details>
+**Databases**
+
+![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+**Observability**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat-square&logo=new-relic&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 </div>
 
 ---
 
-## `connect.sh`
+## 📖 Engineering Atlas
+
+> Building a free learning hub for backend engineers in India and beyond. No paywalls. Just depth.
+>
+> **[learn.engineering-atlas.workers.dev](https://learn.engineering-atlas.workers.dev)**
+
+| Topic | Coverage |
+|-------|----------|
+| ☕ **Java Internals** | JVM, Java Memory Model, Multithreading, Virtual Threads, Lock-Free Programming |
+| 🏗️ **System Design** | 98-concept reference, ML System Design, Trading Systems, Live Streaming |
+| ⚡ **Distributed Systems** | 2PC vs Saga, Idempotency, Rate Limiting, Concurrency Control |
+| 🤖 **ML Infrastructure** | RAG Pipelines, LLM Serving, KV Cache, Continuous Batching, Feature Stores |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhishekgoyal17-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekgoyal17/)
-[![YouTube](https://img.shields.io/badge/YouTube-@AbhishekGoyal-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/AbhishekGoyal)
-[![Instagram](https://img.shields.io/badge/Instagram-@AbhishekGoyal-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhishekgoyal)
-[![Website](https://img.shields.io/badge/Portfolio-abhishekgoyal.tech-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhishekgoyal.tech)
-[![Learning](https://img.shields.io/badge/Learning_Hub-engineering--atlas-FF6B35?style=for-the-badge&logo=cloudflare&logoColor=white)](https://learn.engineering-atlas.workers.dev)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=abhishekgoyal17&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF6B35&icon_color=FF6B35&border_color=30363d&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekgoyal17&layout=compact&theme=dark&bg_color=0d1117&title_color=FF6B35&border_color=30363d&text_color=c9d1d9" />
+
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekgoyal17&theme=dark&background=0d1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&border=30363d" />
+
+</div>
+
+---
+
+## 📅 Book a 1:1 with Me
+
+<div align="center">
+
+### Got a goal? Let's work on it together.
+
+| What | Who it's for |
+|------|-------------|
+| 📄 **Resume Building** | Engineers wanting an impactful resume that actually gets shortlisted |
+| 🔄 **Job Switch Strategy** | Devs planning their next move to a product company or FAANG |
+| 🏗️ **System Design Prep** | Interview prep for backend and distributed systems rounds |
+| ☕ **General Mentorship** | Career questions, tech stack choices, growth strategy |
+
+[![Book a Session on Topmate](https://img.shields.io/badge/Book%20a%20Session%20on%20Topmate-FF6B35?style=for-the-badge&logo=calendly&logoColor=white)](https://topmate.io/abhishek_goyal17/)
 
 </div>
 
 ---
 
 <div align="center">
-
-```
-// currently attending: AWS AI Conclave · Google AI · Anthropic Builder Summit
-// currently trading:   $ONDS · $CLSK · $IREN · $AEVA · $SMR · $KTOS
-// currently building:  learn.engineering-atlas.workers.dev
-```
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=80&section=footer" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhishekgoyal17&color=FF6B35&style=flat-square&label=profile+views)
 
