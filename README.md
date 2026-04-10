@@ -41,7 +41,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔴 Oracle — SDE II
+### <img src="./Oracle_Logo.svg.png" height="20"/> Oracle — SDE II
 `Dec 2024 – Present`
 
 Working on the **Oracle AHF team**, building backend systems for distributed cluster diagnostics, automated health monitoring, and intelligent resource management across large-scale Oracle RAC and DataGuard environments.
@@ -53,7 +53,7 @@ Core focus areas: multithreaded Java systems, distributed coordination, scheduli
 </td>
 <td width="50%" valign="top">
 
-### 🔵 Cisco AppDynamics (Splunk) — SDE I
+### <img src="./Cisco_logo_blue_2016.svg.png" height="20"/> Cisco AppDynamics (Splunk) — SDE I
 `Jul 2023 – Nov 2024`
 
 Worked on the **Browser Real User Monitoring (BRUM)** platform, building microservices for traffic simulation, session sampling at scale, and distributed data ingestion. Contributed to cloud migration initiatives.
@@ -64,7 +64,7 @@ Core focus areas: Spring Boot microservices, Redis-based distributed state, cont
 
 ---
 
-### ⚙️ Red Hat — SWE Intern
+### <img src="./Red_Hat-Logo.wine.svg" height="20"/> Red Hat — SWE Intern
 `Jan 2023 – Jun 2023`
 
 Built automation tooling for build pipeline configuration management using GitHub APIs and Go.
