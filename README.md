@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=120&section=header&text=Abhishek%20Goyal&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=SDE%20II%20%40%20Oracle%20%7C%20Backend%20%26%20Distributed%20Systems&descSize=16&descAlignY=85&descColor=ffffff" width="100%"/>
+  <img src="./header.svg" width="100%" alt="Abhishek Goyal"/>
 </div>
 
 <div align="center">
@@ -164,7 +164,8 @@ Built automation tooling for build pipeline configuration management using GitHu
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=80&section=footer" width="100%"/>
+
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhishekgoyal17&color=FF6B35&style=flat-square&label=profile+views)
 
