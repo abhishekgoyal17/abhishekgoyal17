@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-- 🟢 **SDE @ Fivetran** working on the Connectors team, building and maintaining Connector SDK integrations
+- 🟢 **SDE 2 @ Fivetran** working on the Connectors team, building and maintaining Connector SDK integrations
 - 🔴 **Previously @ Oracle** working on large-scale distributed systems and backend infrastructure
 - 🔵 **Previously @ Cisco AppDynamics (Splunk)** working on observability and monitoring platforms
 - 🏗️ **Building** [Engineering Atlas](https://learn.engineering-atlas.workers.dev) — a deep-dive learning hub for backend engineers
