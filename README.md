@@ -28,7 +28,7 @@
 - 🟢 **SDE 2 @ Fivetran** working on the Connectors team, building and maintaining Connector SDK integrations
 - 🔴 **Previously @ Oracle** working on large-scale distributed systems and backend infrastructure
 - 🔵 **Previously @ Cisco AppDynamics (Splunk)** working on observability and monitoring platforms
-- 🏗️ **Building** [Engineering Atlas](https://learn.engineering-atlas.workers.dev) — a deep-dive learning hub for backend engineers
+- 🏗️ **Building** [Engineering Atlas](https://learn.engineering-atlas.workers.dev) - a deep-dive learning hub for backend engineers
 - 📱 **Content Creator** [@abhishek.tech._](https://www.instagram.com/abhishek.tech._/) covering Java, System Design, and Distributed Systems
 - 📍 Bengaluru, India
 - 💬 Ask me about **Java Concurrency · Distributed Systems · System Design · Backend Engineering**
