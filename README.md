@@ -66,6 +66,7 @@ Core focus areas: multithreaded Java systems, distributed coordination, scheduli
 
 `Java` `Multithreading` `Distributed Systems` `Python` `Linux`
 
+Know more about Oracle AHF : https://www.oracle.com/in/database/technologies/rac/ahf/
 </td>
 <td width="33%" valign="top">
 
@@ -75,6 +76,9 @@ Core focus areas: multithreaded Java systems, distributed coordination, scheduli
 Worked on the **Browser Real User Monitoring (BRUM)** platform, building microservices for traffic simulation, session sampling at scale, and distributed data ingestion. Contributed to cloud migration initiatives.
 
 Core focus areas: Spring Boot microservices, Redis-based distributed state, container orchestration on AWS.
+
+
+Know more about  End user monitoring : https://www.splunk.com/en_us/products/real-user-monitoring.html
 
 `Java` `Spring Boot` `Redis` `Docker` `Kubernetes` `AWS`
 
