@@ -25,7 +25,8 @@
 
 ## 👨‍💻 About Me
 
-- 🔴 **SDE II @ Oracle** working on large-scale distributed systems and backend infrastructure
+- 🟢 **SDE @ Fivetran** working on the Connectors team, building and maintaining Connector SDK integrations
+- 🔴 **Previously @ Oracle** working on large-scale distributed systems and backend infrastructure
 - 🔵 **Previously @ Cisco AppDynamics (Splunk)** working on observability and monitoring platforms
 - 🏗️ **Building** [Engineering Atlas](https://learn.engineering-atlas.workers.dev) — a deep-dive learning hub for backend engineers
 - 📱 **Content Creator** [@abhishek.tech._](https://www.instagram.com/abhishek.tech._/) covering Java, System Design, and Distributed Systems
@@ -39,19 +40,33 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### <img src="./Fivetran_logo.svg.png" height="23"/> Fivetran - SDE
+`Jul 2026 – Present`
+
+Part of the **Connectors team**, working on the Connector SDK ecosystem that powers 700+ managed data pipelines — building and maintaining integrations that handle extraction, schema drift detection, pagination, and sync orchestration across SaaS and database sources.
+
+Core focus areas: distributed data pipelines, schema management, sync reliability.
+
+`Java` `Databricks` `Snowflake` `AWS` `GCP` `Kubernetes` `Docker`
+
+> 💌 Interested in Fivetran? Check out [open roles](https://www.fivetran.com/careers) — feel free to **DM me on LinkedIn for a referral**.
+
+</td>
+<td width="33%" valign="top">
 
 ### <img src="./Oracle_Logo.svg.png" height="23"/> Oracle - SDE II
-`Dec 2024 – Present`
+`Dec 2024 – Jul 2026`
 
-Working on the **Oracle AHF team**, building backend systems for distributed cluster diagnostics, automated health monitoring, and intelligent resource management across large-scale Oracle RAC and DataGuard environments.
+Worked on the **Oracle AHF team**, building backend systems for distributed cluster diagnostics, automated health monitoring, and intelligent resource management across large-scale Oracle RAC and DataGuard environments.
 
 Core focus areas: multithreaded Java systems, distributed coordination, scheduling infrastructure, and AI-assisted diagnostics tooling.
 
 `Java` `Multithreading` `Distributed Systems` `Python` `Linux`
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### <img src="./Cisco_logo_blue_2016.svg.png" height="23"/> Cisco AppDynamics (Splunk) - SDE I
 `Jul 2023 – Nov 2024`
@@ -97,14 +112,17 @@ Built automation tooling for build pipeline configuration management using GitHu
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-**Databases**
+**Databases & Data Platforms**
 
 ![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
 **Observability**
 
