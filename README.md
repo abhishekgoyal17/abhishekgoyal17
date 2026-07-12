@@ -51,6 +51,7 @@ Core focus areas: distributed data pipelines, schema management, sync reliabilit
 
 `Java` `Databricks` `Snowflake` `AWS` `GCP` `Kubernetes` `Docker`
 
+Read fivetran blogs to learn more: https://www.fivetran.com/blog
 > 💌 Interested in Fivetran? Check out [open roles](https://www.fivetran.com/careers) — feel free to **DM me on LinkedIn for a referral**.
 
 </td>
