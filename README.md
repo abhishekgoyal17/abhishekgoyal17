@@ -4,37 +4,62 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=FF6B35&center=true&vCenter=true&width=650&lines=Java+%7C+Distributed+Systems+%7C+Multithreading;Learner+%7C+Contributor+%7C+Curious+Mind;Backend+Engineer+%7C+Building+in+Public;Resume+Help+%7C+Job+Switch+%7C+Book+a+1%3A1)](https://topmate.io/abhishek_goyal17/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=0080FF&center=true&vCenter=true&width=650&lines=Java+%7C+Distributed+Systems+%7C+Multithreading;Learner+%7C+Contributor+%7C+Curious+Mind;Backend+Engineer+%7C+Building+in+Public;Resume+Help+%7C+Job+Switch+%7C+Book+a+1%3A1)](https://topmate.io/abhishek_goyal17/)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekgoyal17/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/AbhishekGoyal)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhishek.tech._/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=0080FF)](https://abhishekgoyal.tech)
+[![Engineering Atlas](https://img.shields.io/badge/Engineering_Atlas-0d1117?style=for-the-badge&logo=cloudflare&logoColor=0080FF)](https://learn.engineering-atlas.workers.dev)
+[![Book 1:1](https://img.shields.io/badge/Book%20a%201%3A1-0080FF?style=for-the-badge&logo=calendly&logoColor=white)](https://topmate.io/abhishek_goyal17/)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=abhishekgoyal17&color=0080FF&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/abhishekgoyal17?style=flat-square&color=0080FF&label=FOLLOWERS)
 
 </div>
 
 <br/>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekgoyal17/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/AbhishekGoyal)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhishek.tech._/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=FF6B35)](https://abhishekgoyal.tech)
-[![Engineering Atlas](https://img.shields.io/badge/Engineering_Atlas-0d1117?style=for-the-badge&logo=cloudflare&logoColor=FF6B35)](https://learn.engineering-atlas.workers.dev)
-[![Book 1:1](https://img.shields.io/badge/Book%20a%201%3A1-FF6B35?style=for-the-badge&logo=calendly&logoColor=white)](https://topmate.io/abhishek_goyal17/)
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
-- 🟢 **SDE 2 @ Fivetran** working on the Connectors team, building and maintaining Connector SDK integrations
-- 🔴 **Previously @ Oracle** working on large-scale distributed systems and backend infrastructure
-- 🔵 **Previously @ Cisco AppDynamics (Splunk)** working on observability and monitoring platforms
-- 🏗️ **Building** [Engineering Atlas](https://learn.engineering-atlas.workers.dev) — a deep-dive learning hub for backend engineers
-- 📱 **Content Creator** [@abhishek.tech._](https://www.instagram.com/abhishek.tech._/) covering Java, System Design, and Distributed Systems
-- 📍 Bengaluru, India
-- 💬 Ask me about **Java Concurrency · Distributed Systems · System Design · Backend Engineering**
-- 📅 **Book a 1:1** for resume building or job switch guidance at [topmate.io/abhishek_goyal17](https://topmate.io/abhishek_goyal17/)
+> Backend Engineer specializing in **distributed systems, Java multithreading, and large-scale data infrastructure.** Currently building the connector layer that powers thousands of data pipelines at Fivetran — previously at Oracle and Cisco AppDynamics, shipping systems that keep clusters, monitoring, and diagnostics running at scale.
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🟢 Currently**
+Building the [Connector SDK ecosystem](#-experience) @ Fivetran
+
+**🔴 Previously**
+Distributed cluster diagnostics @ Oracle · Observability platforms @ Cisco AppDynamics (Splunk)
+
+**🏗️ Building**
+[Engineering Atlas](https://learn.engineering-atlas.workers.dev) — a free, deep-dive learning hub for backend engineers
+
+</td>
+<td width="50%" valign="top">
+
+**📱 Creating**
+Java, System Design & Distributed Systems content as [@abhishek.tech._](https://www.instagram.com/abhishek.tech._/)
+
+**💬 Talk to me about**
+Java Concurrency · Distributed Systems · System Design · Backend Engineering
+
+**📅 1:1 Sessions**
+Resume building & job switch guidance → [topmate.io/abhishek_goyal17](https://topmate.io/abhishek_goyal17/)
+
+</td>
+</tr>
+</table>
+
+📍 Bengaluru, India
+
+<br/>
 
 ## 💼 Experience
 
@@ -42,8 +67,10 @@
 <tr>
 <td width="33%" valign="top">
 
-### <img src="./fivetran.png" height="23"/> Fivetran - SDE 2
-`Jul 2026 – Present`
+<img src="./fivetran.png" height="28"/>
+
+### Fivetran
+**SDE 2** · `Jul 2026 – Present`
 
 Part of the **Connectors team**, working on the Connector SDK ecosystem that powers 700+ managed data pipelines — building and maintaining integrations that handle extraction, schema drift detection, pagination, and sync orchestration across SaaS and database sources.
 
@@ -51,13 +78,16 @@ Core focus areas: distributed data pipelines, schema management, sync reliabilit
 
 `Java` `Databricks` `Snowflake` `AWS` `GCP` `Kubernetes` `Docker`
 
+📖 [Read Fivetran's engineering blog](https://www.fivetran.com/blog)
 > 💌 Interested in Fivetran? Check out [open roles](https://www.fivetran.com/careers) — feel free to **DM me on LinkedIn for a referral**.
 
 </td>
 <td width="33%" valign="top">
 
-### <img src="./Oracle_Logo.svg.png" height="23"/> Oracle - SDE II
-`Dec 2024 – Jul 2026`
+<img src="./Oracle_Logo.svg.png" height="28"/>
+
+### Oracle
+**SDE II** · `Dec 2024 – Jul 2026`
 
 Worked on the **Oracle AHF team**, building backend systems for distributed cluster diagnostics, automated health monitoring, and intelligent resource management across large-scale Oracle RAC and DataGuard environments.
 
@@ -65,11 +95,15 @@ Core focus areas: multithreaded Java systems, distributed coordination, scheduli
 
 `Java` `Multithreading` `Distributed Systems` `Python` `Linux`
 
+📖 [Learn more about Oracle AHF](https://www.oracle.com/in/database/technologies/rac/ahf/)
+
 </td>
 <td width="33%" valign="top">
 
-### <img src="./Cisco_logo_blue_2016.svg.png" height="23"/> Cisco AppDynamics (Splunk) - SDE I
-`Jul 2023 – Nov 2024`
+<img src="./Cisco_logo_blue_2016.svg.png" height="28"/>
+
+### Cisco AppDynamics (Splunk)
+**SDE I** · `Jul 2023 – Nov 2024`
 
 Worked on the **Browser Real User Monitoring (BRUM)** platform, building microservices for traffic simulation, session sampling at scale, and distributed data ingestion. Contributed to cloud migration initiatives.
 
@@ -77,10 +111,14 @@ Core focus areas: Spring Boot microservices, Redis-based distributed state, cont
 
 `Java` `Spring Boot` `Redis` `Docker` `Kubernetes` `AWS`
 
+📖 [Learn more about Real User Monitoring](https://www.splunk.com/en_us/products/real-user-monitoring.html)
+
 ---
 
-### <img src="./Red_Hat_logo.svg.png" height="23"/> Red Hat - SWE Intern
-`Jan 2023 – Jun 2023`
+<img src="./Red_Hat_logo.svg.png" height="28"/>
+
+### Red Hat
+**SWE Intern** · `Jan 2023 – Jun 2023`
 
 Built automation tooling for build pipeline configuration management using GitHub APIs and Go.
 
@@ -90,7 +128,7 @@ Built automation tooling for build pipeline configuration management using GitHu
 </tr>
 </table>
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -132,13 +170,17 @@ Built automation tooling for build pipeline configuration management using GitHu
 
 </div>
 
----
+<br/>
 
 ## 📖 Engineering Atlas
+
+<div align="center">
 
 > Building a free learning hub for backend engineers in India and beyond. No paywalls. Just depth.
 >
 > **[learn.engineering-atlas.workers.dev](https://learn.engineering-atlas.workers.dev)**
+
+</div>
 
 | Topic | Coverage |
 |-------|----------|
@@ -147,9 +189,7 @@ Built automation tooling for build pipeline configuration management using GitHu
 | ⚡ **Distributed Systems** | 2PC vs Saga, Idempotency, Rate Limiting, Concurrency Control |
 | 🤖 **ML Infrastructure** | RAG Pipelines, LLM Serving, KV Cache, Continuous Batching, Feature Stores |
 
----
-
----
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -167,7 +207,7 @@ Built automation tooling for build pipeline configuration management using GitHu
 
 </div>
 
----
+<br/>
 
 ## 📱 Follow on Instagram
 
@@ -179,7 +219,7 @@ Built automation tooling for build pipeline configuration management using GitHu
 
 <img src="https://img.shields.io/badge/Instagram-abhishek.tech._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 
-### Java · System Design · Distributed Systems - in reel form
+### Java · System Design · Distributed Systems — in reel form
 
 Daily bite-sized breakdowns of backend concepts, system design walkthroughs, and behind-the-scenes of Engineering Atlas.
 
@@ -193,7 +233,9 @@ Daily bite-sized breakdowns of backend concepts, system design walkthroughs, and
 
 </div>
 
----
+<br/>
+
+## 📅 Book a 1:1 with Me
 
 <div align="center">
 
@@ -206,16 +248,21 @@ Daily bite-sized breakdowns of backend concepts, system design walkthroughs, and
 | 🏗️ **System Design Prep** | Interview prep for backend and distributed systems rounds |
 | ☕ **General Mentorship** | Career questions, tech stack choices, growth strategy |
 
-[![Book a Session on Topmate](https://img.shields.io/badge/Book%20a%20Session%20on%20Topmate-FF6B35?style=for-the-badge&logo=calendly&logoColor=white)](https://topmate.io/abhishek_goyal17/)
+[![Book a Session on Topmate](https://img.shields.io/badge/Book%20a%20Session%20on%20Topmate-0080FF?style=for-the-badge&logo=calendly&logoColor=white)](https://topmate.io/abhishek_goyal17/)
 
 </div>
 
----
+<br/>
+
+## 🤝 Let's Connect
 
 <div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekgoyal17/)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/AbhishekGoyal)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhishek.tech._/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=0080FF)](https://abhishekgoyal.tech)
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhishekgoyal17&color=FF6B35&style=flat-square&label=profile+views)
+<sub>⭐️ If Engineering Atlas or any of this helped you, consider dropping a star or a follow!</sub>
 
 </div>
