@@ -42,7 +42,7 @@
 <tr>
 <td width="33%" valign="top">
 
-### <img src="./Fivetran_logo.svg.png" height="23"/> Fivetran - SDE
+### <img src="./fivetran.png" height="23"/> Fivetran - SDE
 `Jul 2026 – Present`
 
 Part of the **Connectors team**, working on the Connector SDK ecosystem that powers 700+ managed data pipelines — building and maintaining integrations that handle extraction, schema drift detection, pagination, and sync orchestration across SaaS and database sources.
