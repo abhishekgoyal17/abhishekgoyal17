@@ -25,10 +25,10 @@
 
 ## 👨‍💻 About Me
 
-- 🟢 **SDE 2 @ Fivetran** working on the Connectors team, building and maintaining Connector SDK integrations
+- 🟢 **SDE @ Fivetran** working on the Connectors team, building and maintaining Connector SDK integrations
 - 🔴 **Previously @ Oracle** working on large-scale distributed systems and backend infrastructure
 - 🔵 **Previously @ Cisco AppDynamics (Splunk)** working on observability and monitoring platforms
-- 🏗️ **Building** [Engineering Atlas](https://learn.engineering-atlas.workers.dev) - a deep-dive learning hub for backend engineers
+- 🏗️ **Building** [Engineering Atlas](https://learn.engineering-atlas.workers.dev) — a deep-dive learning hub for backend engineers
 - 📱 **Content Creator** [@abhishek.tech._](https://www.instagram.com/abhishek.tech._/) covering Java, System Design, and Distributed Systems
 - 📍 Bengaluru, India
 - 💬 Ask me about **Java Concurrency · Distributed Systems · System Design · Backend Engineering**
@@ -42,16 +42,15 @@
 <tr>
 <td width="33%" valign="top">
 
-### <img src="./fivetran.png" height="23"/> Fivetran - SDE 2
+### <img src="./Fivetran_logo.svg.png" height="23"/> Fivetran - SDE
 `Jul 2026 – Present`
 
-Part of the **Connectors team**, working on the Connector SDK ecosystem that powers 700+ managed data pipelines : building and maintaining integrations that handle extraction, schema drift detection, pagination, and sync orchestration across SaaS and database sources.
+Part of the **Connectors team**, working on the Connector SDK ecosystem that powers 700+ managed data pipelines — building and maintaining integrations that handle extraction, schema drift detection, pagination, and sync orchestration across SaaS and database sources.
 
 Core focus areas: distributed data pipelines, schema management, sync reliability.
 
 `Java` `Databricks` `Snowflake` `AWS` `GCP` `Kubernetes` `Docker`
 
-Read fivetran blogs to learn more: https://www.fivetran.com/blog
 > 💌 Interested in Fivetran? Check out [open roles](https://www.fivetran.com/careers) — feel free to **DM me on LinkedIn for a referral**.
 
 </td>
@@ -66,7 +65,6 @@ Core focus areas: multithreaded Java systems, distributed coordination, scheduli
 
 `Java` `Multithreading` `Distributed Systems` `Python` `Linux`
 
-Know more about Oracle AHF : https://www.oracle.com/in/database/technologies/rac/ahf/
 </td>
 <td width="33%" valign="top">
 
@@ -76,9 +74,6 @@ Know more about Oracle AHF : https://www.oracle.com/in/database/technologies/rac
 Worked on the **Browser Real User Monitoring (BRUM)** platform, building microservices for traffic simulation, session sampling at scale, and distributed data ingestion. Contributed to cloud migration initiatives.
 
 Core focus areas: Spring Boot microservices, Redis-based distributed state, container orchestration on AWS.
-
-
-Know more about  End user monitoring : https://www.splunk.com/en_us/products/real-user-monitoring.html
 
 `Java` `Spring Boot` `Redis` `Docker` `Kubernetes` `AWS`
 
@@ -164,13 +159,41 @@ Built automation tooling for build pipeline configuration management using GitHu
 |:---:|:---:|:---:|
 | **210+** | **4 days** | **1 day** |
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekgoyal17&bg_color=0d1117&color=FF6B35&line=FF6B35&point=ffffff&area=true&hide_border=false&border_color=30363d" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekgoyal17/abhishekgoyal17/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishekgoyal17/abhishekgoyal17/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/abhishekgoyal17/abhishekgoyal17/output/github-contribution-grid-snake.svg" width="95%"/>
+</picture>
 
 </div>
 
 ---
 
-## 📅 Book a 1:1 with Me
+## 📱 Follow on Instagram
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="600">
+
+<img src="https://img.shields.io/badge/Instagram-abhishek.tech._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+
+### Java · System Design · Distributed Systems — in reel form
+
+Daily bite-sized breakdowns of backend concepts, system design walkthroughs, and behind-the-scenes of Engineering Atlas.
+
+**[▶️ Watch my latest Reels](https://www.instagram.com/abhishek.tech._/reels/)** · **[👤 View Profile](https://www.instagram.com/abhishek.tech._/)**
+
+</td>
+</tr>
+</table>
+
+<sub>Note: GitHub strips scripts/iframes from READMEs, so a truly live Instagram embed can't render here — the links above always point to my current content.</sub>
+
+</div>
+
+---
 
 <div align="center">
 
