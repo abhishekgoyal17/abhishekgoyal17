@@ -179,7 +179,7 @@ Built automation tooling for build pipeline configuration management using GitHu
 
 <img src="https://img.shields.io/badge/Instagram-abhishek.tech._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 
-### Java · System Design · Distributed Systems — in reel form
+### Java · System Design · Distributed Systems - in reel form
 
 Daily bite-sized breakdowns of backend concepts, system design walkthroughs, and behind-the-scenes of Engineering Atlas.
 
