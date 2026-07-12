@@ -45,7 +45,7 @@
 ### <img src="./fivetran.png" height="23"/> Fivetran - SDE 2
 `Jul 2026 – Present`
 
-Part of the **Connectors team**, working on the Connector SDK ecosystem that powers 700+ managed data pipelines — building and maintaining integrations that handle extraction, schema drift detection, pagination, and sync orchestration across SaaS and database sources.
+Part of the **Connectors team**, working on the Connector SDK ecosystem that powers 700+ managed data pipelines : building and maintaining integrations that handle extraction, schema drift detection, pagination, and sync orchestration across SaaS and database sources.
 
 Core focus areas: distributed data pipelines, schema management, sync reliability.
 
