@@ -12,7 +12,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/AbhishekGoyal)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhishek.tech._/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=0080FF)](https://abhishekgoyal.tech)
-[![Engineering Atlas](https://img.shields.io/badge/Engineering_Atlas-0d1117?style=for-the-badge&logo=cloudflare&logoColor=0080FF)](https://learn.engineering-atlas.workers.dev)
+[![Engineering Atlas](https://img.shields.io/badge/Engineering_Atlas-0d1117?style=for-the-badge&logo=cloudflare&logoColor=0080FF)](https://engineering-atlas.in)
 [![Book 1:1](https://img.shields.io/badge/Book%20a%201%3A1-0080FF?style=for-the-badge&logo=calendly&logoColor=white)](https://topmate.io/abhishek_goyal17/)
 
 <br/>
