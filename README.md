@@ -195,9 +195,7 @@ Built automation tooling for build pipeline configuration management using GitHu
 
 <div align="center">
 
-| Total Contributions | Longest Streak | Current Streak |
-|:---:|:---:|:---:|
-| **210+** | **4 days** | **1 day** |
+<img src="https://streak-stats.demolab.com?user=abhishekgoyal17&theme=default&hide_border=true" alt="GitHub streak stats" width="70%"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekgoyal17/abhishekgoyal17/output/github-contribution-grid-snake-dark.svg">
