@@ -1,243 +1,45 @@
-<div align="center">
-
 <img src="./header.svg" alt="Abhishek Goyal, Backend Engineer" width="100%"/>
 
-<br/>
+I build backend systems that stay up when the cluster doesn't. Most of my work sits where **Java concurrency**, **distributed coordination** and **data infrastructure** meet.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekgoyal17/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/AbhishekGoyal)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhishek.tech._/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=0080FF)](https://abhishekgoyal.tech)
-[![Engineering Atlas](https://img.shields.io/badge/Engineering_Atlas-0d1117?style=for-the-badge&logo=cloudflare&logoColor=0080FF)](https://engineering-atlas.in)
-[![Book 1:1](https://img.shields.io/badge/Book%20a%201%3A1-0080FF?style=for-the-badge&logo=calendly&logoColor=white)](https://topmate.io/abhishek_goyal17/)
+Right now I'm building [**Engineering Atlas**](https://engineering-atlas.in), a deep, practical learning hub for backend engineers: Java internals, low-level design and system design, written the way you'd explain it to a teammate.
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=abhishekgoyal17&color=0080FF&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/abhishekgoyal17?style=flat-square&color=0080FF&label=FOLLOWERS)
-
-</div>
-
-<br/>
-
-## 👨‍💻 About Me
-
-> Backend Engineer specializing in **distributed systems, Java multithreading, and large-scale data infrastructure.** Previously at Oracle and Splunk (Cisco AppDynamics), shipping systems that keep clusters, monitoring, and diagnostics running at scale.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-
-**🔴 Previously**
-Distributed cluster diagnostics @ Oracle · Observability platforms @ Cisco AppDynamics (Splunk)
-
-**🏗️ Building**
-[Engineering Atlas](https://engineering-atlas.in) — a free, deep-dive learning hub for backend engineers
-
-</td>
-<td width="50%" valign="top">
-
-**📱 Creating**
-Java, System Design & Distributed Systems content as [@abhishek.tech._](https://www.instagram.com/abhishek.tech._/)
-
-**💬 Talk to me about**
-Java Concurrency · Distributed Systems · System Design · Backend Engineering
-
-**📅 1:1 Sessions**
-Resume building & job switch guidance → [topmate.io/abhishek_goyal17](https://topmate.io/abhishek_goyal17/)
-
-</td>
-</tr>
-</table>
-
-📍 Bengaluru, India
-
-<br/>
-
-## 💼 Experience
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./Oracle_Logo.svg.png" height="28"/>
-
-### Oracle
-**SDE II** · `Dec 2024 – Jul 2026`
-
-Worked on the **Oracle AHF team**, building backend systems for distributed cluster diagnostics, automated health monitoring, and intelligent resource management across large-scale Oracle RAC and DataGuard environments.
-
-Core focus areas: multithreaded Java systems, distributed coordination, scheduling infrastructure, and AI-assisted diagnostics tooling.
-
-`Java` `Multithreading` `Distributed Systems` `Python` `Linux`
-
-📖 [Learn more about Oracle AHF](https://www.oracle.com/in/database/technologies/rac/ahf/)
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./Cisco_logo_blue_2016.svg.png" height="28"/>
-
-### Cisco AppDynamics (Splunk)
-**SDE I** · `Jul 2023 – Nov 2024`
-
-Worked on the **Browser Real User Monitoring (BRUM)** platform, building microservices for traffic simulation, session sampling at scale, and distributed data ingestion. Contributed to cloud migration initiatives.
-
-Core focus areas: Spring Boot microservices, Redis-based distributed state, container orchestration on AWS.
-
-`Java` `Spring Boot` `Redis` `Docker` `Kubernetes` `AWS`
-
-📖 [Learn more about Real User Monitoring](https://www.splunk.com/en_us/products/real-user-monitoring.html)
+[Engineering Atlas](https://engineering-atlas.in) &nbsp;·&nbsp; [Portfolio](https://abhishekgoyal.tech) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/abhishekgoyal17/) &nbsp;·&nbsp; [YouTube](https://www.youtube.com/c/AbhishekGoyal) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/abhishek.tech._/) &nbsp;·&nbsp; [Book a 1:1](https://topmate.io/abhishek_goyal17/)
 
 ---
 
-<img src="./Red_Hat_logo.svg.png" height="28"/>
+### Work
 
-### Red Hat
-**SWE Intern** · `Jan 2023 – Jun 2023`
+| | Role | What I did |
+|---|---|---|
+| <img src="./Oracle_Logo.svg.png" width="72"/> | **SDE II, Oracle** <br/><sub>Dec 2024 – Jul 2026</sub> | Autonomous Health Framework: cluster diagnostics, health monitoring and scheduling across Oracle RAC and Data Guard fleets. Multithreaded Java, distributed coordination, AI-assisted diagnostics. |
+| <img src="./Cisco_logo_blue_2016.svg.png" width="72"/> | **SDE I, Cisco AppDynamics (Splunk)** <br/><sub>Jul 2023 – Nov 2024</sub> | Browser Real User Monitoring: traffic simulation, session sampling at scale and ingestion microservices. Spring Boot, Redis, Kubernetes on AWS, cloud migration. |
+| <img src="./Red_Hat_logo.svg.png" width="72"/> | **SWE Intern, Red Hat** <br/><sub>Jan 2023 – Jun 2023</sub> | Go tooling that manages build pipeline config through the GitHub API. |
 
-Built automation tooling for build pipeline configuration management using GitHub APIs and Go.
+### What I write about
 
-`Go` `GitHub APIs` `YAML`
+| | |
+|---|---|
+| **Java internals** | JVM, the memory model, locks, virtual threads, lock-free code |
+| **Low-level design** | SOLID, design patterns, machine-coding problems solved end to end |
+| **System design** | Case studies from rate limiters to surge pricing, with the trade-offs spelled out |
+| **Distributed systems** | Consensus, sagas, idempotency, P2P, service meshes |
 
-</td>
-</tr>
-</table>
+Short versions go out as reels on [@abhishek.tech._](https://www.instagram.com/abhishek.tech._/). The long versions live on [engineering-atlas.in](https://engineering-atlas.in).
 
-<br/>
+### Stack
 
-## 🛠️ Tech Stack
+`Java` `Go` `Python` `Spring Boot` `Kafka` `Redis` `PostgreSQL` `Oracle DB` `MongoDB` `Docker` `Kubernetes` `AWS` `GCP` `Linux` `Snowflake` `Databricks`
 
-<div align="center">
+### Talk to me
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Backend & Infrastructure**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-**Databases & Data Platforms**
-
-![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-
-**Observability**
-
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat-square&logo=new-relic&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-
-</div>
+I do 1:1 sessions on **resumes, job switches and system design interview prep**. [Book a slot on Topmate →](https://topmate.io/abhishek_goyal17/)
 
 <br/>
-
-## 📖 Engineering Atlas
-
-<div align="center">
-
-> Building a free learning hub for backend engineers in India and beyond. No paywalls. Just depth.
->
-> **[engineering-atlas.in](https://engineering-atlas.in)**
-
-</div>
-
-| Topic | Coverage |
-|-------|----------|
-| ☕ **Java Internals** | JVM, Java Memory Model, Multithreading, Virtual Threads, Lock-Free Programming |
-| 🏗️ **System Design** | 98-concept reference, ML System Design, Trading Systems, Live Streaming |
-| ⚡ **Distributed Systems** | 2PC vs Saga, Idempotency, Rate Limiting, Concurrency Control |
-| 🤖 **ML Infrastructure** | RAG Pipelines, LLM Serving, KV Cache, Continuous Batching, Feature Stores |
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=abhishekgoyal17&theme=default&hide_border=true" alt="GitHub streak stats" width="70%"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekgoyal17/abhishekgoyal17/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishekgoyal17/abhishekgoyal17/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/abhishekgoyal17/abhishekgoyal17/output/github-contribution-grid-snake.svg" width="95%"/>
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/abhishekgoyal17/abhishekgoyal17/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-</div>
-
-<br/>
-
-## 📱 Follow on Instagram
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="600">
-
-<img src="https://img.shields.io/badge/Instagram-abhishek.tech._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-
-### Java · System Design · Distributed Systems in reel form
-
-Daily bite-sized breakdowns of backend concepts, system design walkthroughs, and behind-the-scenes of Engineering Atlas.
-
-**[▶️ Watch my latest Reels](https://www.instagram.com/abhishek.tech._/reels/)** · **[👤 View Profile](https://www.instagram.com/abhishek.tech._/)**
-
-</td>
-</tr>
-</table>
-
-<sub>Note: GitHub strips scripts/iframes from READMEs, so a truly live Instagram embed can't render here — the links above always point to my current content.</sub>
-
-</div>
-
-<br/>
-
-## 📅 Book a 1:1 with Me
-
-<div align="center">
-
-### Got a goal? Let's work on it together.
-
-| What | Who it's for |
-|------|-------------|
-| 📄 **Resume Building** | Engineers wanting an impactful resume that actually gets shortlisted |
-| 🔄 **Job Switch Strategy** | Devs planning their next move to a product company or FAANG |
-| 🏗️ **System Design Prep** | Interview prep for backend and distributed systems rounds |
-| ☕ **General Mentorship** | Career questions, tech stack choices, growth strategy |
-
-[![Book a Session on Topmate](https://img.shields.io/badge/Book%20a%20Session%20on%20Topmate-0080FF?style=for-the-badge&logo=calendly&logoColor=white)](https://topmate.io/abhishek_goyal17/)
-
-</div>
-
-<br/>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekgoyal17/)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/AbhishekGoyal)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhishek.tech._/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=0080FF)](https://abhishekgoyal.tech)
-
-<sub>⭐️ If Engineering Atlas or any of this helped you, consider dropping a star or a follow!</sub>
-
-</div>
+<sub>Bengaluru, India</sub>
