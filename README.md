@@ -26,14 +26,12 @@
 
 ## 👨‍💻 About Me
 
-> Backend Engineer specializing in **distributed systems, Java multithreading, and large-scale data infrastructure.** Currently building the connector layer that powers thousands of data pipelines at Fivetran — previously at Oracle and Cisco AppDynamics, shipping systems that keep clusters, monitoring, and diagnostics running at scale.
+> Backend Engineer specializing in **distributed systems, Java multithreading, and large-scale data infrastructure.** .Previously at Oracle and Splunk(Cisco AppDynamics), shipping systems that keep clusters, monitoring, and diagnostics running at scale.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🟢 Currently**
-Building the [Connector SDK ecosystem](#-experience) @ Fivetran
 
 **🔴 Previously**
 Distributed cluster diagnostics @ Oracle · Observability platforms @ Cisco AppDynamics (Splunk)
@@ -67,24 +65,6 @@ Resume building & job switch guidance → [topmate.io/abhishek_goyal17](https://
 <tr>
 <td width="33%" valign="top">
 
-<img src="./fivetran.png" height="28"/>
-
-### Fivetran
-**SDE 2** · `Jul 2026 – Present`
-
-Part of the **Connectors team**, working on the Connector SDK ecosystem that powers 700+ managed data pipelines — building and maintaining integrations that handle extraction, schema drift detection, pagination, and sync orchestration across SaaS and database sources.
-
-Core focus areas: distributed data pipelines, schema management, sync reliability.
-
-`Java` `Databricks` `Snowflake` `AWS` `GCP` `Kubernetes` `Docker`
-
-📖 [Read Fivetran's engineering blog](https://www.fivetran.com/blog)
-> 💌 Interested in Fivetran? Check out [open roles](https://www.fivetran.com/careers) — feel free to **DM me on LinkedIn for a referral**.
-
-</td>
-<td width="33%" valign="top">
-
-<img src="./Oracle_Logo.svg.png" height="28"/>
 
 ### Oracle
 **SDE II** · `Dec 2024 – Jul 2026`
