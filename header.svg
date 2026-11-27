@@ -1,39 +1,34 @@
-<svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Abhishek Goyal, Backend Engineer, Distributed Systems, Java and System Design">
   <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1E7FFF"/>
-      <stop offset="50%" stop-color="#0066E0"/>
-      <stop offset="100%" stop-color="#3D9BFF"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#0F2A4A"/>
     </linearGradient>
-    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.6" fill="#FFFFFF" opacity="0.35"/>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#A3E635"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#FFFFFF" stroke-opacity="0.05"/>
     </pattern>
-    <clipPath id="rounded">
-      <rect width="600" height="120" rx="14"/>
-    </clipPath>
+    <clipPath id="r"><rect width="1200" height="300" rx="20"/></clipPath>
   </defs>
-
-  <g clip-path="url(#rounded)">
-    <rect width="600" height="120" fill="url(#bgGradient)"/>
-
-    <!-- Dot pattern accents, left and right -->
-    <rect x="0" y="0" width="130" height="120" fill="url(#dots)"/>
-    <rect x="470" y="0" width="130" height="120" fill="url(#dots)"/>
-
-    <!-- Soft highlight -->
-    <ellipse cx="300" cy="10" rx="320" ry="60" fill="#FFFFFF" opacity="0.06"/>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <g transform="translate(40 0)"><g stroke="#38BDF8" stroke-opacity="0.45" stroke-width="2" fill="none">
+      <path d="M830 80L960 60L1090 110L1000 200L870 215L830 80M960 60L1000 200M870 215L1090 110"/>
+    </g>
+    <g fill="#0B1220" stroke-width="3">
+      <circle cx="830" cy="80" r="14" stroke="#38BDF8"/>
+      <circle cx="960" cy="60" r="14" stroke="#A3E635"/>
+      <circle cx="1090" cy="110" r="14" stroke="#38BDF8"/>
+      <circle cx="1000" cy="200" r="14" stroke="#A78BFA"/>
+      <circle cx="870" cy="215" r="14" stroke="#A3E635"/>
+    </g>
+    <circle r="5" fill="#A3E635"><animateMotion dur="6s" repeatCount="indefinite" path="M830 80L960 60L1090 110L1000 200L870 215Z"/></circle>
+    <circle r="5" fill="#38BDF8"><animateMotion dur="4s" repeatCount="indefinite" path="M960 60L1000 200L870 215L1090 110Z"/></circle>
+    </g><text x="70" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#F8FAFC">Abhishek Goyal</text>
+    <rect x="72" y="140" width="120" height="5" rx="2.5" fill="url(#acc)"/>
+    <text x="70" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#CBD5E1">Backend Engineer · Distributed Systems · Java · System Design</text>
+    <text x="70" y="235" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#38BDF8">&gt; building engineering-atlas.in · Bengaluru, India</text>
   </g>
-
-  <!-- Border -->
-  <rect x="1" y="1" width="598" height="118" rx="14" fill="none" stroke="#FFFFFF" stroke-opacity="0.15"/>
-
-  <!-- Name -->
-  <text x="300" y="56" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#FFFFFF">
-    Abhishek Goyal
-  </text>
-
-  <!-- Subtitle -->
-  <text x="300" y="82" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#EAF3FF" opacity="0.95">
-    Software Engineer II @ Fivetran · Backend &amp; Distributed Systems · Bengaluru
-  </text>
 </svg>

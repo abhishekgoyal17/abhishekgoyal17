@@ -1,6 +1,6 @@
-# Abhishek Goyal
+<div align="center">
 
-
+<img src="./header.svg" alt="Abhishek Goyal, Backend Engineer" width="100%"/>
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-> Backend Engineer specializing in **distributed systems, Java multithreading, and large-scale data infrastructure.** .Previously at Oracle and Splunk(Cisco AppDynamics), shipping systems that keep clusters, monitoring, and diagnostics running at scale.
+> Backend Engineer specializing in **distributed systems, Java multithreading, and large-scale data infrastructure.** Previously at Oracle and Splunk (Cisco AppDynamics), shipping systems that keep clusters, monitoring, and diagnostics running at scale.
 
 <table>
 <tr>
@@ -33,7 +33,7 @@
 Distributed cluster diagnostics @ Oracle · Observability platforms @ Cisco AppDynamics (Splunk)
 
 **🏗️ Building**
-[Engineering Atlas](https://learn.engineering-atlas.workers.dev) — a free, deep-dive learning hub for backend engineers
+[Engineering Atlas](https://engineering-atlas.in) — a free, deep-dive learning hub for backend engineers
 
 </td>
 <td width="50%" valign="top">
@@ -59,8 +59,9 @@ Resume building & job switch guidance → [topmate.io/abhishek_goyal17](https://
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
+<img src="./Oracle_Logo.svg.png" height="28"/>
 
 ### Oracle
 **SDE II** · `Dec 2024 – Jul 2026`
@@ -74,7 +75,7 @@ Core focus areas: multithreaded Java systems, distributed coordination, scheduli
 📖 [Learn more about Oracle AHF](https://www.oracle.com/in/database/technologies/rac/ahf/)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <img src="./Cisco_logo_blue_2016.svg.png" height="28"/>
 
@@ -154,7 +155,7 @@ Built automation tooling for build pipeline configuration management using GitHu
 
 > Building a free learning hub for backend engineers in India and beyond. No paywalls. Just depth.
 >
-> **[learn.engineering-atlas.workers.dev](https://learn.engineering-atlas.workers.dev)**
+> **[engineering-atlas.in](https://engineering-atlas.in)**
 
 </div>
 
