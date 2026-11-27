@@ -1,34 +1,15 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Abhishek Goyal, Backend Engineer, Distributed Systems, Java and System Design">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#0F2A4A"/>
-    </linearGradient>
-    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#A3E635"/>
-    </linearGradient>
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M30 0H0V30" fill="none" stroke="#FFFFFF" stroke-opacity="0.05"/>
-    </pattern>
-    <clipPath id="r"><rect width="1200" height="300" rx="20"/></clipPath>
-  </defs>
-  <g clip-path="url(#r)">
-    <rect width="1200" height="300" fill="url(#bg)"/>
-    <rect width="1200" height="300" fill="url(#grid)"/>
-    <g transform="translate(40 0)"><g stroke="#38BDF8" stroke-opacity="0.45" stroke-width="2" fill="none">
-      <path d="M830 80L960 60L1090 110L1000 200L870 215L830 80M960 60L1000 200M870 215L1090 110"/>
-    </g>
-    <g fill="#0B1220" stroke-width="3">
-      <circle cx="830" cy="80" r="14" stroke="#38BDF8"/>
-      <circle cx="960" cy="60" r="14" stroke="#A3E635"/>
-      <circle cx="1090" cy="110" r="14" stroke="#38BDF8"/>
-      <circle cx="1000" cy="200" r="14" stroke="#A78BFA"/>
-      <circle cx="870" cy="215" r="14" stroke="#A3E635"/>
-    </g>
-    <circle r="5" fill="#A3E635"><animateMotion dur="6s" repeatCount="indefinite" path="M830 80L960 60L1090 110L1000 200L870 215Z"/></circle>
-    <circle r="5" fill="#38BDF8"><animateMotion dur="4s" repeatCount="indefinite" path="M960 60L1000 200L870 215L1090 110Z"/></circle>
-    </g><text x="70" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#F8FAFC">Abhishek Goyal</text>
-    <rect x="72" y="140" width="120" height="5" rx="2.5" fill="url(#acc)"/>
-    <text x="70" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#CBD5E1">Backend Engineer · Distributed Systems · Java · System Design</text>
-    <text x="70" y="235" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#38BDF8">&gt; building engineering-atlas.in · Bengaluru, India</text>
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Abhishek Goyal, backend engineer">
+  <rect width="1200" height="320" fill="#F4F1EA"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#6B6459" letter-spacing="1.5">
+    <text x="64" y="58">NO. 17</text>
+    <text x="1136" y="58" text-anchor="end">BENGALURU · 12.97°N 77.59°E</text>
+  </g>
+  <line x1="64" y1="76" x2="1136" y2="76" stroke="#1A1714" stroke-width="1"/>
+  <text x="60" y="196" font-family="Georgia, 'Times New Roman', serif" font-size="112" fill="#1A1714" letter-spacing="-3">Abhishek Goyal<tspan fill="#D9480F">.</tspan></text>
+  <line x1="64" y1="236" x2="1136" y2="236" stroke="#1A1714" stroke-width="1"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#1A1714" letter-spacing="0.5">
+    <text x="64" y="274">Backend engineer</text>
+    <text x="330" y="274" fill="#6B6459">Java · concurrency · distributed systems</text>
+    <text x="1136" y="274" text-anchor="end">engineering-atlas.in ↗</text>
   </g>
 </svg>
